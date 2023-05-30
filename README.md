@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Berry
 - ⚡ I'm interested in programming, AI, games, game making and technology.
-- 🔭 have experience with Python (Tkinter, Flask, BS4), HTML/CSS, PHP, SQL, C# (WinForms)
+- 🔭 I have experience with Python (Tkinter, Flask, BS4), HTML/CSS, PHP, SQL, C# (WinForms)
 - 🌱 I recently finished secondary school and will go to university.
 - 📫 How to reach me: waltarcz@email.cz
