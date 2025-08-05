@@ -3,8 +3,8 @@
 ## 👀 About Me  
 - 🎮 Passionate about **programming**, **web development**, **game making**, and all things **technology**.  
 - 💻 Experience with:  
-  - **Languages:** HTML/CSS, JavaScript, SQL, Python (Tkinter, Flask, BS4), C#, PHP.  
-  - **Frameworks & Tools:** React, Flask, WinForms.
+  - **Languages:** HTML/CSS, JavaScript, TypeScript, SQL, Python (Tkinter, Flask, BS4), C#, PHP.  
+  - **Frameworks & Tools:** React, Next.js, Flask, WinForms.
 - 📚 Currently studying at university, learning and exploring new technologies.  
 
 ## 🚀 What I'm Working On  
